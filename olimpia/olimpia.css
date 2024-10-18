@@ -3,6 +3,7 @@
   padding: 20px;
   border: 1px solid black;
   box-shadow: 5px 5px 10px black;
+  background-color: rgba(234, 200, 150, 0.9);
   
   
 }
@@ -11,6 +12,8 @@
   height: 150px;
   
   float: right;
+
+  margin: 20px;
   
 }
 
@@ -31,6 +34,7 @@ h1, h2 {
 p, li {
   
   text-indent: 20px;
+ 
 }
 
 
